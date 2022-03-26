@@ -16,3 +16,8 @@
 截图效果
 
 ![image](https://gitee.com/weixinhook/pictures/raw/master/2022/202203261509241.gif)
+
+效果图是gif,有点大,传不上去.
+大家下载代码是是是就知道啦.
+
+形成的日志里会记录,截图时间和帧数
