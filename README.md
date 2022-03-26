@@ -15,7 +15,7 @@
 
 截图效果
 
-![image](https://gitee.com/weixinhook/pictures/raw/master/2022/202203261509241.gif)
+![image](https://img2022.cnblogs.com/blog/355148/202203/355148-20220326152454841-1882765611.gif)
 
 效果图是gif,有点大,传不上去.
 大家下载代码是是是就知道啦.
