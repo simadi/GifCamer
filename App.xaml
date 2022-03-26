@@ -1,0 +1,27 @@
+﻿<prism:PrismApplication x:Class="GifCamer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	     xmlns:prism="http://prismlibrary.com/"
+             xmlns:local="clr-namespace:GifCamer">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/HandyControl;component/Themes/skindefault.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/HandyControl;component/Themes/Theme.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <Style x:Key="Column1">
+                <Setter Property="Control.VerticalAlignment" Value="Center" />
+                <Setter Property="Control.HorizontalAlignment" Value="Right" />
+            </Style>
+            <Style x:Key="Column2">
+                <Setter Property="Control.Height" Value="30" />
+                <Setter Property="Control.Margin" Value="0,5" />
+            </Style>
+            <!--  引用这个样式后 会变化 不要用  -->
+            <Style x:Key="MyButton">
+                <Setter Property="Control.Height" Value="30" />
+                <Setter Property="Control.FontSize" Value="14" />
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</prism:PrismApplication>
