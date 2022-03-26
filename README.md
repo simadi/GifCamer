@@ -15,10 +15,10 @@
 
 截图效果
 
-![image](https://img2022.cnblogs.com/blog/355148/202203/355148-20220326152454841-1882765611.gif)
+![image](https://user-images.githubusercontent.com/12027638/160230074-67b68793-f77f-4d12-8630-7279d54740ec.png)
 
 效果图是gif,有点大,传不上去.
-大家下载代码是是是就知道啦.
+大家下载代码是是是就知道啦. 这里可以看 效果 https://www.cnblogs.com/simadi/p/16058949.html
 
 形成的日志里会记录,截图时间和帧数
 
