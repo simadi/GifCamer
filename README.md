@@ -15,4 +15,4 @@
 
 截图效果
 
-![](https://gitee.com/weixinhook/pictures/raw/master/2022/202203261509241.gif)
+![image](https://gitee.com/weixinhook/pictures/raw/master/2022/202203261509241.gif)
